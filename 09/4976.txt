@@ -1,0 +1,7 @@
+[ Tue Dec  7 04:30:26 2021 ] P2 : /s 
+[ Tue Dec  7 04:30:29 2021 ] P2 : hello 
+[ Tue Dec  7 04:30:32 2021 ] P1 : hi 
+[ Tue Dec  7 04:30:39 2021 ] P2 : my name is park sung ho 
+[ Tue Dec  7 04:30:42 2021 ] P1 : oh really ? 
+[ Tue Dec  7 04:30:48 2021 ] P1 : my name is kokangho 
+[ Tue Dec  7 04:30:52 2021 ] P2 : what the fuck 
